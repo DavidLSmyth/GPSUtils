@@ -1,4 +1,4 @@
-package coordinate;
+package main.java;
 
 //https://msi.nga.mil/msisitecontent/staticfiles/calculators/degree.html
 //inspect degree.html

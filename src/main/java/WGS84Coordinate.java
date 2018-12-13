@@ -1,4 +1,4 @@
-package coordinate;
+package main.java;
 
 import java.math.BigDecimal;
 import java.math.MathContext;

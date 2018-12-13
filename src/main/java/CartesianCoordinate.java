@@ -1,4 +1,4 @@
-package coordinate;
+package main.java;
 
 import java.math.BigDecimal;
 
@@ -6,7 +6,7 @@ import java.math.BigDecimal;
  * A specification of the familiar 3D Cartesian Coordinate system.
  * Assumes that unit length is 1m.
  * 
- * @author David Smyth
+ * @author 13383861
  *
  */
 public interface CartesianCoordinate {
